@@ -14,10 +14,14 @@ body {
 }
 
 /* Basic */
+#logoprincipale{
+  padding-bottom: 0px;
+}
 
 a {
 	color: #3CF;
-    text-decoration: none;
+  text-decoration: none;
+  
 }
 
 a:hover {
