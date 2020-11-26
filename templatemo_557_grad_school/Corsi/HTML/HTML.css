@@ -1,0 +1,8 @@
+body {
+    background-image: url(../../assets/images/choosing-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #172238;
+    padding-bottom: 100px;
+    padding: 0px 30px 100px 30px;
+}
