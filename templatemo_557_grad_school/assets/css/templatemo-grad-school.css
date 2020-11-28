@@ -157,7 +157,7 @@ a.menu-link { display: none; }
 
 @media screen and (max-width: 1050px) {
   .main-header .logo {
-      padding-left: 30px!important;
+      padding-left: 10px!important;
   }
 
   .main-menu {
@@ -185,7 +185,7 @@ a.menu-link { display: none; }
 }
 
 .main-header .logo a {
-    font-size: 36px;
+    font-size: 28px;
     text-transform: uppercase;
     font-weight: 800;
     color: #fff;
